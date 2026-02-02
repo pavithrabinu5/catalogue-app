@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Vintage Cozy Color Palette -->
+    <color name="background_cream">#FFF8F0</color>
+    <color name="card_background">#FFFEFB</color>
+    <color name="text_brown">#5D4E37</color>
+    <color name="text_dark_gray">#4A4A4A</color>
+    <color name="text_gray">#8B8B8B</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <color name="button_vintage">#A67C52</color>
+    <color name="button_pressed">#8B6841</color>
+
+    <color name="icon_selected">#FFF4E6</color>
+    <color name="icon_unselected">#F5F5F5</color>
+    <color name="border_selected">#D4A574</color>
+    <color name="border_light">#E0E0E0</color>
+
+    <color name="fun_fact_background">#FFF9E6</color>
+
+    <!-- Material Design Required Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
